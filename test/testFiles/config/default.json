@@ -1,0 +1,11 @@
+{
+  "tier": "development",
+  "development": {
+    "property1": "devValue1",
+    "property2": "devValue2"
+  },
+  "production": {
+    "property1": "prodValue1",
+    "property2": "prodValue2"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "electron-node-config",
+  "version": "1.0.0",
+  "main": "./index.js",
+  "description": "Configuration control for electron based node applications",
+  "author": "Dennis Williams",
+  "homepage": "http://dw1284.github.com/electron-node-config",
+  "keywords": [
+    "conf",
+    "config",
+    "configuration",
+    "electron",
+    "electron-config",
+    "electron-node-config",
+    "node-config",
+    "config-node",
+    "env",
+    "environment"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "config": "1.25.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "electron": "^1.4.15",
+    "mocha": "^3.1.2",
+    "proxyquire": "^1.7.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/dw1284/electron-node-config.git"
+  },
+  "scripts": {
+    "test": "mocha ./test"
+  }
+}
