@@ -1,6 +1,6 @@
 {
   "name": "electron-node-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./index.js",
   "description": "Configuration control for electron based node applications",
   "author": "Dennis Williams",
