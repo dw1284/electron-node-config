@@ -43,7 +43,7 @@ Pull the config into your code:
 let config = require('electron-node-config');
 let dbConfig = config.get('Customer.dbConfig');
 
-console.log(config.customer.credit.initialDays);
+console.log(config.Customer.credit.initialDays);
 console.log(dbConfig.host);
 ```
 
