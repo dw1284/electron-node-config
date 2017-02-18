@@ -1,4 +1,4 @@
-SampleApi
+electron-node-config
 ==========
 
 Introduction
@@ -7,6 +7,8 @@ Introduction
 This module is identical to node-config except that it works in the Electron environment.
 
 Whenever your app gets packaged into an Electron executable, this module will still work as expected.
+
+Even if you archive your app into app.asar, this module will still work as expected.
 
 Installation
 ------------
