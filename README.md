@@ -4,7 +4,7 @@ electron-node-config
 Introduction
 ------------
 
-This module is identical to node-config except that it works in the Electron environment.
+This module is identical to [node-config](https://github.com/lorenwest/node-config) except that it works in the Electron environment.
 
 Whenever your app gets packaged into an Electron executable, this module will still work as expected.
 
