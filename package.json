@@ -4,7 +4,7 @@
   "main": "./index.js",
   "description": "Configuration control for electron based node applications",
   "author": "Dennis Williams",
-  "homepage": "http://dw1284.github.com/electron-node-config",
+  "homepage": "http://github.com/dw1284/electron-node-config",
   "keywords": [
     "conf",
     "config",
